@@ -1,6 +1,8 @@
 # Unity Zombie Defence FPS Examples
 This example is zombie defence fps game. Kill the zombies to obtain the cash and upgrade your weapon or buy powerful weapons!
 
+Live Demo: [http://modernator.me:5001/](http://modernator.me:5001/)
+
 ## Features
 - Extended Standard FPSController: Recoil, Fixing Jump related glitches
 - Weapon Sway, Weapon Bobbing
