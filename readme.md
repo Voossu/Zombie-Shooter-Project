@@ -1,5 +1,5 @@
 # Unity Zombie Defence FPS Examples
-This example is zombie defence fps game. Kill the zombies to obtain the cash and upgrade your weapon or buy powerful weapons!
+This is the example of zombie defence fps game. Kill the zombies to obtain the cash and upgrade your weapon or buy powerful weapons!
 
 Live Demo: [http://modernator.me:5001/](http://modernator.me:5001/)
 
@@ -13,10 +13,10 @@ Live Demo: [http://modernator.me:5001/](http://modernator.me:5001/)
 - Extended Standard FPSController: Recoil, Fixing Jump related glitches
 - Weapon Sway, Weapon Bobbing
 - Endless Zombie offense
-- Unity's NavMeshAgent Path finding
+- Used Unity's NavMeshAgent for Path finding
 - Weapon Buying System
 - Weapon Upgrading System
-- Raycast Shooting system(Feat. Shotgun)
+- Raycast Shooting System(Feat. Shotgun)
 - Raycast Environment interaction(Shops)
 - Global Asset managers (Prefab/Sprite/Sound/Globalsound Managers)
 - All models were made and rigified from Blender(Except zombie prefab from Asset store)
@@ -37,7 +37,7 @@ That's because I remained unusing network related resources.
 
 ## Gameplay rule
 - You start with Police 9mm pistol.
-- After 10 seconds you entered the game, Zombies are spawn and it keeps going on until you are dead.
+- After 10 seconds you entered the game, zombies will spawn and it keeps going on until you are dead.
 - Killing a zombie gives you some cash and experience.
 - Collect the cash and buy new gun, or upgrade them, or buy some ammunition.
 - It's endless survival game. Enemies are getting stronger and stronger, also gives more funds and exps.
@@ -45,12 +45,12 @@ That's because I remained unusing network related resources.
 
 ## Rules and Tips
 - Experience is useless system. Just ignore it.
-- Easy weapon has own upgrade factors and different upgrade cost & ammo cost. Spend it wisely.
+- Each weapon has own upgrade factors and different upgrade cost & ammo cost. Spend it wisely.
 - Upgrading weapon has limitation. You can only upgrade to LV10 of each.
-- While you are aiming, you gain much more high accuracy, but you loose some speed.
+- While you are aiming, you gain much more high accuracy, but you lost some speed.
 - All headshot gives 3x damage. Try to aim the head!
 - Every 50 seconds, enemy will getting tough and stronger. Don't forget to upgrade your weapon damage or get some more powerful weapon!
-- Weapon upgrade is not sharing. Don't confuse.
+- Weapon upgrade is not sharing for all weapons. Don't confuse.
 - Zombie has an "attackable" angle sight. If you are get closed enough to being attacked, but zombie is not facing to you directly, he can't attack you and try to rotate to face you.
 - Reduce recoil upgrade helps you shoot enemy more precisely. This upgrade especially good for automatic weapons, like MP5K and AKM.
 - M870(Defender Shotgun) fires 8 bullets once, so it has great benefit of damage upgrade. You can easily kill the zombie with single headshot for a long time, without damage upgrade.
