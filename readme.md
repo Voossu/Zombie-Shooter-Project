@@ -1,4 +1,4 @@
-# Unity Zombie Defence FPS Examples
+# Unity Zombie Defence FPS Example
 This is the example of zombie defence fps game. Kill the zombies to obtain the cash and upgrade your weapon or buy powerful weapons!
 
 Live Demo: [http://modernator.me:5001/](http://modernator.me:5001/)
